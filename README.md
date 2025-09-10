@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="https://github.com/AlkaShukla26/Coffee-Chain-Analysis-Excel-/blob/main/ChatGPT%20Image%20Sep%2010%2C%202025%2C%2002_05_08%20PM.png?raw=true" 
+    alt="Coffee Chain Analysis Cover" 
+    width="567" 
+    height="265"
+  />
+</p>
 
 # ☕ Coffee Chain Case Study  
 
